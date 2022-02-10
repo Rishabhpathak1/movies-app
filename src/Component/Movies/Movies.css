@@ -1,0 +1,9 @@
+.movies{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    grid-gap: 20px;
+    gap: 60px;
+    padding: 50px;
+    padding-top:30px;
+}

@@ -1,0 +1,38 @@
+.header{
+    /* background: blueviolet; */
+    height: 60px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   /* height: 100px; */
+}
+.logo{ 
+    height: 90%;
+    width: 17%;
+    /* background: yellowgreen; */
+}
+.logo img{
+   height: 100%;
+   width: 100%;
+}
+/* .search-bar{ */
+    
+/* } */
+.search{
+    outline:none;
+    text-align: center;   
+}
+.header-links{
+    /* background: greenyellow; */
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    width: 20%;
+}
+.header-link{
+     padding: 2px;
+    margin: 2px;
+}
+.header-link a{
+    color: rgb(228, 32, 32);
+}
